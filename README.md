@@ -2,7 +2,7 @@
 
 **Overview**
 
-Rocket Chat is a combination of tools and procedures required to merge radio channel communication with Rocket.Chat.
+Radio Chat is a combination of tools and procedures required to merge radio channel communication with Rocket.Chat.
 In the public security sector (Police, Firefighters, Medical Emergency etc.), during interventions, many traditional parallel communication channels (radio, phone, video) are used. In addition to these old channels, modern chat services are also being used. This solution integrates radio into Rocket.Chat. This way all radio communication will be recorded in the appropriate Rocket.Chat channel for all concerned to listen when they can (in case they were occupied during the time the transmission took place), mixed with any relevant chat communication. Voice messages are also transcripted into chat for transparency.
 
 **Used applications:**
