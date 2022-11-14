@@ -106,7 +106,30 @@ All applications except rocket.chat run on that computer.
 
 ![02_record](https://user-images.githubusercontent.com/59833831/201619245-0f95f52f-1834-49c0-b18f-76c41bca4f56.jpg)
 
+---
+**VHF bot setup**
 
+Prerequisites
 
+1. Azure subscription - Create one for free
+2. Create a Speech resource in the Azure portal.
+3. Get the resource key and region. After your Speech resource is deployed, select Go to resource to view and manage keys.
+4. Create rocket.chat bot user - https://developer.rocket.chat/bots/creating-your-own-bot-from-scratch
+5. Install latest version of node.js
 
+Setup process
+
+1. Download VHFbot.js
+2. Install package.json
+3. Set environment variables:
+	- HOST: set your rocket.chat host
+	- USER: set bot username (same as in rocket.chat)
+	- PASS: set bot password (same as in rocket.chat)
+	- BOTNAME: set bot name (same as in rocket.chat)
+	- ROOMS: set rid of rooms you want the bot to listen in (separate rid-s with ",")
+	- SPEECH_KEY: set azure speech service speech key
+	- SPEECH_REGION: set azure speech service region key
+	- SPEECH_LANG: set azure speech service language locale. List of supported languages - https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support?tabs=stt-tts
+	- USER_ID: set bot id
+4. Run bot
 
