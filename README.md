@@ -39,8 +39,7 @@ All applications except rocket.chat run on that computer.
 
 - Upload script (upload.bat)
 
-<img width="1099" alt="Screenshot 2022-11-14 at 14 13 20" src="https://user-images.githubusercontent.com/59833831/201671842-ecc8c7ac-87ef-487b-bbbf-977d6ed66a3c.png">
-
+<img width="1011" alt="Screenshot 2022-11-14 at 14 30 31" src="https://user-images.githubusercontent.com/59833831/201672622-919d85f6-d5d2-48de-8137-14144c8073b7.png">
 
 1. Download the script from GitHub repository
 2. Open the script with code editor
