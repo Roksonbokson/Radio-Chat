@@ -34,6 +34,9 @@ All applications except rocket.chat run on that computer.
 
 **Instructions for application setup:**
 
+
+
+
 - Upload script (upload.bat)
 
 <img width="100%" alt="Screenshot 2022-11-14 at 09 56 28" src="https://user-images.githubusercontent.com/59833831/201617455-3930516b-8457-4855-b77f-14334aa89bd8.png">
@@ -49,6 +52,8 @@ All applications except rocket.chat run on that computer.
      c. "X-User-Id: @1234556789@" - replace @123456789@ with the user added to the channel who will upload generated files from the Snooper application
 
 4 .Save and exit code editor
+
+
 
 
 - Snooper
