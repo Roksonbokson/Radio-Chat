@@ -56,7 +56,7 @@ All applications except rocket.chat run on that computer.
 
 
 
-- Snooper
+- Snooper (We used this app but there may be others with the same functionality.)
 
 1. Download Snooper app from its official website (https://www.snooper.se/download/) and install it
 2. Launch application
@@ -78,9 +78,9 @@ All applications except rocket.chat run on that computer.
      
      ![04_upload](https://user-images.githubusercontent.com/59833831/201618716-be0737c8-b6ed-419f-b556-6a6ffa04d659.jpg)
 
-     e. Clik OK and close Options menu
+     e. Click OK and close Options menu
 
-4. Connect your VHF radio to your computer
+4. Connect VHF radio to computer
 
 5. Select correct input
      a. Go to file and select Options
@@ -97,7 +97,7 @@ All applications except rocket.chat run on that computer.
 
      d. After selecting the correct device click close
 
-6. Set the trigger level. Set level 20-30 decibel s above static level.
+6. Set the trigger level. Set level 20-30 decibels above static level.
 
 ![01_trigger](https://user-images.githubusercontent.com/59833831/201619206-3c6949d5-a1a0-45c8-ba60-5db58dadbd9b.jpg)
 
