@@ -39,14 +39,15 @@ All applications except rocket.chat run on that computer.
 
 1. Download the script from GitHub repository
 2. Open the script with code editor
-3. Replace placeholders with your data
-  a. curl "https://@123456789@/api/v1/rooms.upload/@123@" - replace @123456789@ with the URL address of your rocket.chat server and replace @123@ with an ID of room to which you will upload files
+3. Replace placeholders with your data 
 
-  b. "X-Auth-Token: @123456789@" - replace @123456789@ with a generated token from your rocket.chat server
+     a. curl "https://@123456789@/api/v1/rooms.upload/@123@" - replace @123456789@ with the URL address of your rocket.chat server and replace @123@ with an ID of room to which you will upload files
 
-  c. "X-User-Id: @1234556789@" - replace @123456789@ with the user added to the channel who will upload generated files from the Snooper application
+     b. "X-Auth-Token: @123456789@" - replace @123456789@ with a generated token from your rocket.chat server
 
-  d. Save and exit code editor
+     c. "X-User-Id: @1234556789@" - replace @123456789@ with the user added to the channel who will upload generated files from the Snooper application
+
+     d. Save and exit code editor
 
 
 
