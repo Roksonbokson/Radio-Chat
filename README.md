@@ -39,17 +39,18 @@ All applications except rocket.chat run on that computer.
 
 - Upload script (upload.bat)
 
-<img width="100%" alt="Screenshot 2022-11-14 at 09 56 28" src="https://user-images.githubusercontent.com/59833831/201617455-3930516b-8457-4855-b77f-14334aa89bd8.png">
+<img width="1099" alt="Screenshot 2022-11-14 at 14 13 20" src="https://user-images.githubusercontent.com/59833831/201671842-ecc8c7ac-87ef-487b-bbbf-977d6ed66a3c.png">
+
 
 1. Download the script from GitHub repository
 2. Open the script with code editor
 3. Replace placeholders with your data 
 
-     a. curl "https://@123456789@/api/v1/rooms.upload/@123@" - replace @123456789@ with the URL address of your rocket.chat server and replace @123@ with an ID of room to which you will upload files
+     a. curl "https://<rocket.chat server url>/api/v1/rooms.upload/<rocket.chat room id> - replace <rocket.chat server url> with the URL address of your rocket.chat server and replace <rocket.chat room id> with an ID of room to which you will upload files
 
-     b. "X-Auth-Token: @123456789@" - replace @123456789@ with a generated token from your rocket.chat server
+     b. "X-Auth-Token: <rocket.chat token>" - replace <rocket.chat token> with a generated token from your rocket.chat server
 
-     c. "X-User-Id: @1234556789@" - replace @123456789@ with the user added to the channel who will upload generated files from the Snooper application
+     c. "X-User-Id: <id of user who will post in room>" - replace <id of user who will post in room> with the user added to the channel who will upload generated files from the Snooper application
 
 4 .Save and exit code editor
 
