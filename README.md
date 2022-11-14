@@ -47,7 +47,50 @@ All applications except rocket.chat run on that computer.
 
      c. "X-User-Id: @1234556789@" - replace @123456789@ with the user added to the channel who will upload generated files from the Snooper application
 
-     d. Save and exit code editor
+4 .Save and exit code editor
+
+
+- Snooper
+
+1. Download Snooper app from its official website (https://www.snooper.se/download/) and install it
+2. Launch application
+3. Set up post process with upload script
+
+     a. Go to file and select Options
+     ![01_options](https://user-images.githubusercontent.com/59833831/201618504-78cc1f68-9c78-4031-9944-c280a514b35e.jpg)
+
+     b. Select Post processes in menu and click on Plugin manager
+     ![02_postprocess](https://user-images.githubusercontent.com/59833831/201618586-c44d2790-3864-456c-9ef1-cf4d784c13e1.jpg)
+
+     c. Select and enable Program executer, than click on the wrench icon.
+     ![03_postprocess](https://user-images.githubusercontent.com/59833831/201618637-4220369e-b5d9-46ff-8436-ec86bb76b429.jpg)
+
+     d. Select upload.bat file that you downloaded from GitHub and edited. Set parameter to %filepath”
+     ![04_upload](https://user-images.githubusercontent.com/59833831/201618716-be0737c8-b6ed-419f-b556-6a6ffa04d659.jpg)
+
+     e. Clik OK and close Options menu
+
+4. Connect your VHF radio to your computer
+
+5. Select correct input
+     a. Go to file and select Options
+     ![01_options](https://user-images.githubusercontent.com/59833831/201618986-1efc00d8-1684-4ba5-aa16-a3f7121710d7.jpg)
+
+     b. Select General in menu 
+     ![02_general](https://user-images.githubusercontent.com/59833831/201619036-b13c1490-d231-4436-bbd4-8858cc04d535.jpg)
+
+     c. In Recording device drop-down menu select the correct device
+     ![03_drop-down](https://user-images.githubusercontent.com/59833831/201619105-452d9272-8ab0-4ff4-ae53-8d7eee8f0863.jpg)
+
+     d. After selecting the correct device click close
+
+6. Set the trigger level. Set level 20-30 decibel s above static level.
+![01_trigger](https://user-images.githubusercontent.com/59833831/201619206-3c6949d5-a1a0-45c8-ba60-5db58dadbd9b.jpg)
+
+7. Click on record icon to start the recording process.
+![02_record](https://user-images.githubusercontent.com/59833831/201619245-0f95f52f-1834-49c0-b18f-76c41bca4f56.jpg)
+
+
 
 
 
